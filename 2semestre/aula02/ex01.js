@@ -8,8 +8,8 @@ for (i = 0; i<10; i++) {
 
         while (req <= 0) { req = Number(prompt('Código incorreto! digite o código novamente: ')); }
 
-        req%2 == 0?  par++ :
-        impar++
+    req%2 == 0?  par++ :
+    impar++
 
 } 
 
